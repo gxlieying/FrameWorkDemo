@@ -1,0 +1,14 @@
+//
+//  Framework.pch
+//  FrameworkProject
+//
+//  Created by 郭旭 on 2020/1/8.
+//  Copyright © 2020 郭旭. All rights reserved.
+//
+
+#ifndef Framework_pch
+#define Framework_pch
+
+#import "Utils.h"
+
+#endif /* Framework_pch */
